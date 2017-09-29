@@ -1,0 +1,98 @@
+starting background process
+closing building
+starting background process
+events.js:182
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: watch /home/natedog/dev/js/ethschool.github.io/languages ENOSPC
+    at _errnoException (util.js:1022:11)
+    at FSWatcher.start (fs.js:1382:19)
+    at Object.fs.watch (fs.js:1408:11)
+    at Gaze._watchDir (/home/natedog/dev/js/ethschool.github.io/node_modules/gaze/lib/gaze.js:289:30)
+    at /home/natedog/dev/js/ethschool.github.io/node_modules/gaze/lib/gaze.js:358:10
+    at iterate (/home/natedog/dev/js/ethschool.github.io/node_modules/gaze/lib/helper.js:52:5)
+    at Object.forEachSeries (/home/natedog/dev/js/ethschool.github.io/node_modules/gaze/lib/helper.js:66:3)
+    at Gaze._initWatched (/home/natedog/dev/js/ethschool.github.io/node_modules/gaze/lib/gaze.js:354:10)
+    at Gaze.add (/home/natedog/dev/js/ethschool.github.io/node_modules/gaze/lib/gaze.js:177:8)
+    at new Gaze (/home/natedog/dev/js/ethschool.github.io/node_modules/gaze/lib/gaze.js:74:10)
+starting background process
+events.js:182
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: watch /home/natedog/dev/js/ethschool.github.io/languages ENOSPC
+    at _errnoException (util.js:1022:11)
+    at FSWatcher.start (fs.js:1382:19)
+    at Object.fs.watch (fs.js:1408:11)
+    at Gaze._watchDir (/home/natedog/dev/js/ethschool.github.io/node_modules/gaze/lib/gaze.js:289:30)
+    at /home/natedog/dev/js/ethschool.github.io/node_modules/gaze/lib/gaze.js:358:10
+    at iterate (/home/natedog/dev/js/ethschool.github.io/node_modules/gaze/lib/helper.js:52:5)
+    at Object.forEachSeries (/home/natedog/dev/js/ethschool.github.io/node_modules/gaze/lib/helper.js:66:3)
+    at Gaze._initWatched (/home/natedog/dev/js/ethschool.github.io/node_modules/gaze/lib/gaze.js:354:10)
+    at Gaze.add (/home/natedog/dev/js/ethschool.github.io/node_modules/gaze/lib/gaze.js:177:8)
+    at new Gaze (/home/natedog/dev/js/ethschool.github.io/node_modules/gaze/lib/gaze.js:74:10)
+starting background process
+events.js:182
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: watch /home/natedog/dev/js/ethschool.github.io/languages ENOSPC
+    at _errnoException (util.js:1022:11)
+    at FSWatcher.start (fs.js:1382:19)
+    at Object.fs.watch (fs.js:1408:11)
+    at Gaze._watchDir (/home/natedog/dev/js/ethschool.github.io/node_modules/gaze/lib/gaze.js:289:30)
+    at /home/natedog/dev/js/ethschool.github.io/node_modules/gaze/lib/gaze.js:358:10
+    at iterate (/home/natedog/dev/js/ethschool.github.io/node_modules/gaze/lib/helper.js:52:5)
+    at Object.forEachSeries (/home/natedog/dev/js/ethschool.github.io/node_modules/gaze/lib/helper.js:66:3)
+    at Gaze._initWatched (/home/natedog/dev/js/ethschool.github.io/node_modules/gaze/lib/gaze.js:354:10)
+    at Gaze.add (/home/natedog/dev/js/ethschool.github.io/node_modules/gaze/lib/gaze.js:177:8)
+    at new Gaze (/home/natedog/dev/js/ethschool.github.io/node_modules/gaze/lib/gaze.js:74:10)
+starting background process
+events.js:182
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: watch /home/natedog/dev/js/ethschool.github.io/languages ENOSPC
+    at _errnoException (util.js:1022:11)
+    at FSWatcher.start (fs.js:1382:19)
+    at Object.fs.watch (fs.js:1408:11)
+    at Gaze._watchDir (/home/natedog/dev/js/ethschool.github.io/node_modules/gaze/lib/gaze.js:289:30)
+    at /home/natedog/dev/js/ethschool.github.io/node_modules/gaze/lib/gaze.js:358:10
+    at iterate (/home/natedog/dev/js/ethschool.github.io/node_modules/gaze/lib/helper.js:52:5)
+    at Object.forEachSeries (/home/natedog/dev/js/ethschool.github.io/node_modules/gaze/lib/helper.js:66:3)
+    at Gaze._initWatched (/home/natedog/dev/js/ethschool.github.io/node_modules/gaze/lib/gaze.js:354:10)
+    at Gaze.add (/home/natedog/dev/js/ethschool.github.io/node_modules/gaze/lib/gaze.js:177:8)
+    at new Gaze (/home/natedog/dev/js/ethschool.github.io/node_modules/gaze/lib/gaze.js:74:10)
+starting background process
+events.js:182
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: watch /home/natedog/dev/js/ethschool.github.io/languages ENOSPC
+    at _errnoException (util.js:1022:11)
+    at FSWatcher.start (fs.js:1382:19)
+    at Object.fs.watch (fs.js:1408:11)
+    at Gaze._watchDir (/home/natedog/dev/js/ethschool.github.io/node_modules/gaze/lib/gaze.js:289:30)
+    at /home/natedog/dev/js/ethschool.github.io/node_modules/gaze/lib/gaze.js:358:10
+    at iterate (/home/natedog/dev/js/ethschool.github.io/node_modules/gaze/lib/helper.js:52:5)
+    at Object.forEachSeries (/home/natedog/dev/js/ethschool.github.io/node_modules/gaze/lib/helper.js:66:3)
+    at Gaze._initWatched (/home/natedog/dev/js/ethschool.github.io/node_modules/gaze/lib/gaze.js:354:10)
+    at Gaze.add (/home/natedog/dev/js/ethschool.github.io/node_modules/gaze/lib/gaze.js:177:8)
+    at new Gaze (/home/natedog/dev/js/ethschool.github.io/node_modules/gaze/lib/gaze.js:74:10)
+starting background process
+events.js:182
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: watch /home/natedog/dev/js/ethschool.github.io/languages ENOSPC
+    at _errnoException (util.js:1022:11)
+    at FSWatcher.start (fs.js:1382:19)
+    at Object.fs.watch (fs.js:1408:11)
+    at Gaze._watchDir (/home/natedog/dev/js/ethschool.github.io/node_modules/gaze/lib/gaze.js:289:30)
+    at /home/natedog/dev/js/ethschool.github.io/node_modules/gaze/lib/gaze.js:358:10
+    at iterate (/home/natedog/dev/js/ethschool.github.io/node_modules/gaze/lib/helper.js:52:5)
+    at Object.forEachSeries (/home/natedog/dev/js/ethschool.github.io/node_modules/gaze/lib/helper.js:66:3)
+    at Gaze._initWatched (/home/natedog/dev/js/ethschool.github.io/node_modules/gaze/lib/gaze.js:354:10)
+    at Gaze.add (/home/natedog/dev/js/ethschool.github.io/node_modules/gaze/lib/gaze.js:177:8)
+    at new Gaze (/home/natedog/dev/js/ethschool.github.io/node_modules/gaze/lib/gaze.js:74:10)
