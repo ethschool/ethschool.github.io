@@ -1,0 +1,1138 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"aut",
+				"authorFirstName"
+			],
+			[
+				"auth",
+				"authorFirstName"
+			],
+			[
+				"autho",
+				"authorLastName"
+			],
+			[
+				"author",
+				"authorLastName"
+			],
+			[
+				"isVal",
+				"isValidCourseNumber"
+			],
+			[
+				"arg",
+				"AT_TARGET\t: const unsigned short Event"
+			],
+			[
+				"dep",
+				"dependencies"
+			],
+			[
+				"error",
+				"error\t: DOMError FileReader"
+			],
+			[
+				"testWords",
+				"testWords"
+			],
+			[
+				"querySel",
+				"querySelectorAll\t( selectors: DOMString ): NodeList Element"
+			],
+			[
+				"trans",
+				"transition-timing-function"
+			],
+			[
+				"tran",
+				"transform-origin"
+			],
+			[
+				"class",
+				"classList\t: DOMTokenList Element"
+			],
+			[
+				"S",
+				"Seti_UX"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "body{margin:0;padding:0;overflow:auto;font-family:Source Sans Pro,sans-serif;color:#333}h1,.big-heading{font-size:3em;margin:10px 0}h2,h3{font-size:2em}h3 a{color:#000}code{font-family:Source Code Pro,monospace;font-size:.75rem;background:#fafafa;border-radius:3px;padding:3px 5px;line-height:20px}img{width:100%}p{line-height:1.4;}p:first-child{margin-top:0;padding-top:0}li{padding-bottom:4px;line-height:1.4}a{color:#333;text-decoration:none;border-bottom:1px solid #888;}a:hover{border-color:#333}a.imglink{border:none;outline:none}hr{border:2px solid #333;margin:0}header{display:block;color:#333;background-image:url(\"images/test-bg.png\");background-size:25%;background-position:0 -100px;background-color:#ffe51f;background-blend-mode:multiply;z-index:-1;}header h1{font-size:5rem;font-weight:900;margin-bottom:0;margin-top:20px;line-height:1;text-transform:uppercase}header img{width:400px;position:relative;display:block;margin:0 auto;padding-right:20px}header p{margin:10px 0 0;font-size:1.5em;font-weight:500}header .big-link{color:#333;border-color:#333;font-weight:bold;}header .big-link:hover{border-color:#787878;color:#787878}header .container{padding:100px 40px}header .full{width:47%;}header .full:after{content:'';display:block;clear:both}header .nav a{color:#333;border-color:#fff;border:none}header .subtitle{margin-bottom:20px;letter-spacing:.05em}.events header .container,.about header .container,.host header .container,.building-workshops header .container,.chapters header .container{padding:20px}.events .logo,.about .logo,.host .logo,.building-workshops .logo,.chapters .logo{padding:15px 0}.container{clear:both;padding:60px 40px}.get-started code{font-size:1.5rem;background:#fff}.get-started h3{margin-top:0}.window-pane{width:100%;height:400px;background-image:url(\"images/hero3.jpg\");background-position:0 -200px;background-size:100%;background-repeat:no-repeat}.caption{color:#fff;font-size:.6875rem;padding:40px;display:inline-block;opacity:.5}.other-photo{position:fixed;width:100%;height:200%;display:block;background-image:url(\"images/hero.jpg\");background-repeat:no-repeat;background-size:100%;background-position:0 600px;z-index:-1}ul.inner-nav{list-style:none;margin:0;padding:0;}ul.inner-nav a{background-color:#f7da03;color:#333;-webkit-box-ordinal-group:NaN;-ms-flex-order:none;order:none;padding:8px 12px;border-radius:3px;}ul.inner-nav a:hover{color:#fff;background-color:#333}ul.inner-nav li{margin-right:6px;margin-left:6px;display:inline-block;line-height:3}ul.nav{display:inline-block;margin:0;padding-left:0;list-style:none;color:#333;font-weight:700;letter-spacing:.1em;}ul.nav li{display:inline-block;font-size:1rem;margin:0 5px 5px;padding:0;border:2px solid #333;border-radius:3px;}ul.nav li:hover a{color:#f7da03;background:#333;cursor:pointer}ul.nav li.current-page a{background:#333;color:#ffe51f}ul.nav li a{display:inline-block;padding:6px 8px}ul.nav-lang{list-style:none;margin:0;padding:5px 20px;text-align:right;}ul.nav-lang li{border:none;margin-right:0;display:inline-block;}ul.nav-lang li:after{content:\"|\";margin-right:5px;margin-left:5px}ul.nav-lang li:last-child:after{content:none;color:#333}ul.nav-lang li.selected{text-decoration:none;color:#666}ul.nav-lang li a{color:#333;text-decoration:none;border-color:#333;}ul.nav-lang li a:hover{color:#666;border-color:#666}span.no-break{display:inline-block}#map{width:100%;min-height:375px;background:#eaeaea;}#map .past-event{border-radius:50%;background:#9f9f9f;border:2px solid #c6c6c6}.key{padding:8px 0;}.key span{padding-right:12px}.key-future::before{content:\"\";width:12px;height:12px;background:#f7da03;display:inline-block;border-radius:3px;margin-right:8px}.key-past::before{content:\"\";width:12px;height:12px;background:#a09c9c;display:inline-block;border-radius:3px;margin-right:8px}.events #map{margin:0;padding:0}.leaflet-container a{font-family:Source Sans Pro,sans-serif;color:#333}.leaflet-container .leaflet-control-attribution a{border:none}.half{width:45%;display:inline-block;vertical-align:top;}.half + .half{padding:0 20px}.centered.half{margin-right:25%;margin-left:25%}.centered.third{margin-right:33%;margin-left:33%}.centered.two-thirds{margin-right:16.5%;margin-left:16.5%}.third{width:30%;display:inline-block;vertical-align:top;h3:,;h4:,;}.third + .third{padding-left:30px}.third + .two-thirds{padding-left:30px}.third p{margin-top:0;line-height:1.75}.full{width:63%;text-align:center;margin:0 auto;}.full p{font-size:1.625rem}#calendar .full,.events .workshops .full{width:100%}.logo{text-align:center}.two-thirds{width:60%;display:inline-block;vertical-align:top;}.two-thirds + .third{padding-left:30px}.core-workshoppers h3,.elective-workshoppers h3{font-weight:500;font-size:3em;margin:10px 0;line-height:3.5}.workshopper{padding-bottom:20px;}.workshopper h4 a{border-radius:3px;font-size:1.25rem;padding:6px 10px;font-family:Source Code Pro,monospace;font-weight:500;text-decoration:none;display:block;border:none}.workshopper p{min-height:2.8em}.elective-workshoppers h4 a{background:#333;color:#fff;}.elective-workshoppers h4 a:hover{background:#000}.core-workshoppers h4 a{background:#ffe51f;color:#333;}.core-workshoppers h4 a:hover{background:#f7da03}#workshoppers{background-color:#f7f7f7;z-index:99}#upcoming-workshops{margin-bottom:15px;}#upcoming-workshops.empty > div.loading,#upcoming-workshops.error > div.loading,#upcoming-workshops.success > div.loading{display:none}#upcoming-workshops.empty > div.empty{display:block}#upcoming-workshops.error > div.error{display:block}#upcoming-workshops.success > div.success{display:block}#upcoming-workshops > div{display:none;}#upcoming-workshops > div.loading{display:block}#upcoming-workshops ul{margin:0}.term{display:block;border-radius:4px;margin-bottom:10px;text-align:left;border:2px solid #787878;}.term.max{position:absolute;top:0;left:0;width:100%;height:100%;max-width:none}.term.min{position:absolute;bottom:0;}.term.min .shell{min-height:0;height:0;padding:0}.term.min .chrome{border:0}.term .chrome{height:34px;padding-left:4px;border-bottom:2px solid #787878;}.term .chrome:before{content:\" \";display:inline-block;height:100%;vertical-align:middle}.term .chrome .btn{display:inline-block;vertical-align:middle;width:8px;height:8px;border:2px solid #787878;border-radius:100%;}.term .chrome .btn:hover{border-color:$lighten(#000,25%)}.term .chrome .btn.close:hover{background:#f00}.term .chrome .btn.max:hover{background:#0f0}.term .chrome .btn.min:hover{background:#f7da03}.term .shell{min-height:130px;color:#494949;padding:10px;overflow:hidden}.term .workshopper{background:#f8f0bd;padding:2px;}.term .workshopper code{border:0}.term code{display:block;margin:12px 0;padding:4px 10px;border-left:8px solid #f7da03;border-radius:0;background:none}footer{border-top:3px solid #333;padding-top:60px;padding-bottom:40px;color:#333;padding-top:20px;}footer a{border:none}footer li a{font-size:.875rem;text-decoration:none;border:none}footer p{margin:0;padding:0}footer strong{line-height:2}footer ul{list-style:none;display:inline-block;padding-right:60px;vertical-align:top;margin:0;padding:0;}footer ul + ul{padding-left:80px}footer .container{padding:0 40px}.hexdex img.hex{width:240px;padding:10px}a.skip{position:absolute;top:-1000px;left:-1000px;height:1px;width:1px;text-align:left;overflow:hidden;background-color:#fff;}a.skip:active,a.skip:focus,a.skip:hover{left:0;top:0;width:auto;height:auto;overflow:visible}.mentoring-header-full-width{background-image:url(\"images/mentoring-by-oleharland-cropped.jpg\");background-size:cover;background-position:center;min-height:500px;position:relative}.mentoring-headline{color:#fff;font-size:2em;position:absolute;bottom:2em;left:0;width:94%;text-align:center;}.mentoring-headline-container{position:absolute;background-color:rgba(0,0,0,0.6);width:100%;height:100%;}.mentoring-headline-container .container{height:100%;position:relative}.mentoring-intro-quote{font-size:1.25rem;font-style:italic;position:relative;}.mentoring-intro-quote::before{content:\"“\";position:absolute;left:-.6em;font-size:5em;top:-.3em}@media only screen and (max-width:1366px){h1,.big-heading{font-size:2em}h2{font-size:1.125em}h4{font-size:1em}.get-started code{font-size:12px}header img{height:75px}header h1{font-size:2em;margin-top:0}header .container{padding:20px}header .subtitle{margin:0 auto 20px;width:75%}header .full{width:80%}.full p{font-size:1rem}.container{padding:20px}.full{width:95%}.core-workshoppers h4 a,.elective-workshoppers h4 a{font-size:1em}.window-pane{display:none}}@media (max-width:768px){h1{font-size:2em}.container{padding:5px}.first-photo{background-image:none}p{font-size:1em}.full,.half,.third,.two-thirds{width:100%}.third + .third,.third + .two-thirds,.two-thirds + .third{padding-left:0}.half,.two-thirds{margin-left:0 !important;margin-right:0 !important}header .container{padding:40px 20px}header .full{width:80%}header img{width:100%;padding:0}header h1{font-size:2.5em;margin-top:0;}header h1 span{margin:0 -3.8px}header p{font-size:1em}#map{margin:0;padding:0;width:100%}.window-pane{background-position:0 0;height:200px}footer ul{width:100%;}footer ul + ul{padding-left:0}footer li a{font-size:.875rem}}@media only screen and (min-width:768px){.mentoring-intro-quote::before{font-size:10em}}@media only screen and (min-width:1366px){.mentoring-headline{bottom:5em}}/*# sourceMappingURL=style.css.map */",
+			"file": "style.css",
+			"file_size": 9390,
+			"file_write_time": 131511882775909813,
+			"settings":
+			{
+				"buffer_size": 9388,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "styles/style.styl",
+			"settings":
+			{
+				"buffer_size": 12839,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "Package Control Messages\n========================\n\nStylus\n------\n\n  ///////////////////////////////////////\n  //                                   //\n  //      Stylus for Sublime Text      //\n  //                                   //\n  ///////////////////////////////////////\n  \n  \n  IMPORTANT: Snippets for CSS properties\n  --------------------------------------\n  \n  Snippets for CSS properties are not provided as part of this package and Emmet or Hayaku packages should be used instead to provide this (and much more) functionality. Both choices are available via Package Control.\n  \n  If you rather use regular Sublime Text snippets for some reason, then snippets that were previously a part of Stylus package can be installed as new Sublime-Snippets package, which is also available via Package Control.\n  \n  You can learn more about packages mentioned above by following these links:\n  \n  https://github.com/sergeche/emmet-sublime\n  https://github.com/hayaku/hayaku\n  https://github.com/billymoon/Stylus-Snippets\n  \n  \n  \n  Build System Requirements\n  -------------------------\n  \n  In order for build system to work you will need stylus installed via npm and available in your PATH.\n  \n  ------------------------------------------------\n  Please report any issues with this package here:\n  https://github.com/billymoon/Stylus/issues\n  ------------------------------------------------\n",
+			"settings":
+			{
+				"buffer_size": 1392,
+				"line_ending": "Unix",
+				"name": "Package Control Messages",
+				"read_only": true,
+				"scratch": true
+			}
+		},
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 33782,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "CNAME",
+			"settings":
+			{
+				"buffer_size": 12,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "nodeschool.io",
+			"file": ".build/CNAME",
+			"file_size": 13,
+			"file_write_time": 131511882679032757,
+			"settings":
+			{
+				"buffer_size": 13,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 400.0,
+		"last_filter": "insta",
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"pi",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Preferences: Browse Packages"
+			],
+			[
+				"termin",
+				"Terminal View: Open Bash Terminal"
+			],
+			[
+				"alignment",
+				"Preferences: Alignment File Settings – Default"
+			],
+			[
+				":w",
+				"BracketHighlighter: Swap Quotes"
+			],
+			[
+				":wq",
+				"BracketHighlighter: Swap Quotes"
+			],
+			[
+				"pai",
+				"Package Control: Install Package"
+			],
+			[
+				"pack in",
+				"Package Control: Install Package"
+			],
+			[
+				"pack re",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"packi",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 609.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/natedog/dev/js/ethschool.github.io"
+	],
+	"file_history":
+	[
+		"/home/natedog/dev/js/ethschool.github.io/styles/settings/colors.styl",
+		"/home/natedog/dev/js/nodeschool/stream-adventure/2-pipe.js",
+		"/home/natedog/dev/js/nodeschool/stream-adventure/3-io.js",
+		"/home/natedog/dev/js/nodeschool/.gitignore",
+		"/home/natedog/dev/js/nodeschool/stream-adventure/7-http-server.js",
+		"/home/natedog/doc/bcit/COMP1409/Book.java",
+		"/home/natedog/doc/bcit/COMP1409/day2/Book.java",
+		"/home/natedog/doc/bcit/COMP1409/day2/Student.java",
+		"/home/natedog/doc/bcit/COMP1409/Main.java",
+		"/home/natedog/doc/bcit/COMP1409/day2/Book.class",
+		"/home/natedog/dev/js/nodeschool/stream-adventure/4-transform.js",
+		"/home/natedog/dev/js/nodeschool/stream-adventure/5-lines.js",
+		"/home/natedog/dev/js/nodeschool/8-http-client.js",
+		"/home/natedog/dev/js/nodeschool/stream-adventure/9-websockets.js",
+		"/home/natedog/dev/js/sandbox/jonny.c",
+		"/home/natedog/doc/bcit/COMP1409/a1/assignments/1/Course.java",
+		"/home/natedog/dev/js/nodeschool/stream-adventure/13-stream-combiner.js",
+		"/home/natedog/dev/html/udacity/toplist/index.html",
+		"/home/natedog/dev/js/nodeschool/learnyouhtml/index.html",
+		"/home/natedog/dev/js/nodeschool/learnyouhtml/3-attributes.html",
+		"/home/natedog/dev/js/nodeschool/learnyouhtml/4-inline-tags.html",
+		"/home/natedog/dev/js/nodeschool/learnyouhtml/1-hello-world.html",
+		"/home/natedog/dev/js/nodeschool/learnyouhtml/5-headings.html",
+		"/home/natedog/dev/js/nodeschool/learnyouhtml/7-tables.html",
+		"/home/natedog/dev/js/nodeschool/learnyouhtml/8-blocks.html",
+		"/home/natedog/dev/java/Car.java",
+		"/home/natedog/doc/bcit/COMP1409/labs/3a/Book.java",
+		"/home/natedog/dev/js/sandbox/bylinetest.js",
+		"/home/natedog/doc/bcit/COMP1409/a1/Course.java",
+		"/home/natedog/dev/js/nodeschool/stream-adventure/8-http-client.js",
+		"/home/natedog/dev/js/nodeschool/9-websockets.js",
+		"/home/natedog/dev/js/nodeschool/stream-adventure/6-concat.js",
+		"/home/natedog/dev/js/node/stream-adventure/problems/beep_boop/problem.txt",
+		"/home/natedog/.config/sublime-text-3/Packages/Emmet/Default (Linux).sublime-keymap",
+		"/home/natedog/dev/html/udacity/toplist/style.css",
+		"/home/natedog/dev/js/nodeschool/learnyouhtml/6-lists.html",
+		"/home/natedog/.config/sublime-text-3/Packages/Emmet/Emmet.sublime-settings",
+		"/home/natedog/.config/sublime-text-3/Packages/User/Emmet.sublime-settings",
+		"/home/natedog/dev/html/udacity/boxes-to-html.html",
+		"/home/natedog/dev/js/nodeschool/stream-adventure/10-html-stream.js",
+		"/home/natedog/dev/js/nodeschool/stream-adventure/11-duplexer.js",
+		"/home/natedog/dev/js/nodeschool/stream-adventure/12-duplexer-redux.js",
+		"/home/natedog/doc/bcit/COMP1409/a1/CellPhone.java",
+		"/home/natedog/doc/bcit/COMP1409/day2/package.bluej",
+		"/home/natedog/doc/bcit/COMP1409/day2/Book.ctxt",
+		"/home/natedog/dev/js/nodeschool/scope-chains-closures/4-closures.js",
+		"/home/natedog/dev/js/nodeschool/javascripting/1-intro.js",
+		"/home/natedog/dev/js/nodeschool/javascripting/2-variables.js",
+		"/home/natedog/dev/js/nodeschool/javascripting/3-strings.js",
+		"/home/natedog/dev/js/nodeschool/javascripting/4-string-length.js",
+		"/home/natedog/dev/js/nodeschool/javascripting/5-revising-strings.js",
+		"/home/natedog/dev/js/nodeschool/javascripting/6-numbers.js",
+		"/home/natedog/dev/js/nodeschool/javascripting/7-rounding-numbers.js",
+		"/home/natedog/dev/js/nodeschool/javascripting/8-number-to-string.js",
+		"/home/natedog/dev/js/nodeschool/javascripting/9-if-statement.js",
+		"/home/natedog/dev/js/nodeschool/javascripting/10-for-loop.js",
+		"/home/natedog/dev/js/nodeschool/touch",
+		"/home/natedog/dev/js/nodeschool/javascripting/touch",
+		"/home/natedog/dev/js/nodeschool/javascripting/11-arrays.js",
+		"/12-filtering-arrays.js",
+		"/12-filtering-array.js",
+		"/home/natedog/dev/js/nodeschool/javascripting/12-filtering-array.js",
+		"/home/natedog/dev/js/nodeschool/javascripting/13-accessing-array-values.js",
+		"/home/natedog/dev/js/nodeschool/javascripting/14-looping-through-arrays.js",
+		"/home/natedog/dev/js/nodeschool/javascripting/15-objects.js",
+		"/home/natedog/dev/js/nodeschool/javascripting/16-object-properties.js",
+		"/home/natedog/dev/js/nodeschool/javascripting/17-functions.js",
+		"/home/natedog/dev/js/nodeschool/javascripting/18-function-arguments.js",
+		"/home/natedog/dev/js/nodeschool/javascripting/19-scope.js",
+		"/home/natedog/dev/js/eggnest/style.css",
+		"/home/natedog/dev/js/eggnest/app.js",
+		"/home/natedog/dev/js/eggnest/routes/index.js",
+		"/home/natedog/dev/js/sandbox/se.js",
+		"/home/natedog/doc/bcit/COMP1409/chapter1.md",
+		"/home/natedog/dev/js/cryptoTracker/index.js",
+		"/home/natedog/dev/js/nodeschool/bacon-love/6-map-filter.js",
+		"/home/natedog/dev/js/nodeschool/11-arrays.js",
+		"/home/natedog/dev/js/eggnest/routes/users.js",
+		"/home/natedog/dev/js/sandbox/devany.js",
+		"/home/natedog/dev/js/sandbox/sotest.html",
+		"/home/natedog/dev/js/sandbox/badaverage.js",
+		"/home/natedog/dev/js/eggnest/index.html",
+		"/home/natedog/dev/web/nateusher.com/index.html",
+		"/home/natedog/dev/js/eggnest/touch",
+		"/home/natedog/dev/web/nateusher.com/touch",
+		"/home/natedog/dev/js/nodeschool/bacon-love/7-fold-scan.js",
+		"/home/natedog/dev/js/nodeschool/functional-javascript-workshop/16-recursion.js",
+		"/home/natedog/dev/js/nodeschool/currying-workshopper/touch",
+		"/home/natedog/dev/js/nodeschool/currying-workshopper/6-curry-function.js",
+		"/home/natedog/dev/js/nodeschool/functional-javascript-workshop/touch",
+		"/home/natedog/dev/js/nodeschool/functional-javascript-workshop/18-function-call.js",
+		"/home/natedog/dev/js/nodeschool/functional-javascript-workshop/17-curry.js",
+		"/home/natedog/dev/js/nodeschool/currying-workshopper/5-call-apply.js",
+		"/home/natedog/dev/js/nodeschool/currying-workshopper/4-long-delay.js",
+		"/home/natedog/dev/js/nodeschool/currying-workshopper/3-delay-invocation.js",
+		"/home/natedog/dev/js/nodeschool/currying-workshopper/2-binary.js",
+		"/home/natedog/dev/js/nodeschool/currying-workshopper/1-identiy.js",
+		"/home/natedog/dev/js/nodeschool/functional-javascript-workshop/12-function-spies.js",
+		"/home/natedog/dev/js/nodeschool/functional-javascript-workshop/11-map-with-reduce.js",
+		"/home/natedog/dev/js/nodeschool/functional-javascript-workshop/10-partial-application-bind.js",
+		"/home/natedog/dev/js/nodeschool/functional-javascript-workshop/9-partial-application-nobind.js",
+		"/home/natedog/dev/js/nodeschool/functional-javascript-workshop/8-call.js",
+		"/home/natedog/dev/js/nodeschool/functional-javascript-workshop/4-filter.js",
+		"/home/natedog/dev/js/nodeschool/functional-javascript-workshop/7-recursion.js",
+		"/home/natedog/dev/js/nodeschool/functional-javascript-workshop/6-reduce.js",
+		"/home/natedog/dev/js/nodeschool/functional-javascript-workshop/3-map.js",
+		"/home/natedog/dev/js/nodeschool/functional-javascript-workshop/2-higher-order-functions.js",
+		"/home/natedog/dev/js/nodeschool/functional-javascript-workshop/1-hello-world.js",
+		"/home/natedog/dev/js/nodeschool/bacon-love/3-subscription.js",
+		"/home/natedog/dev/js/nodeschool/bacon-love/4-event-streams.js",
+		"/home/natedog/dev/js/nodeschool/bacon-love/touch",
+		"/home/natedog/dev/js/nodeschool/bacon-love/5-properties.js",
+		"/home/natedog/dev/js/cryptoTracker/main.todo",
+		"/home/natedog/dev/js/sandbox/topof.js",
+		"/home/natedog/dev/js/nodeschool/bacon-love/5-map-filter.js",
+		"/home/natedog/dev/js/naivechain/main.js",
+		"/home/natedog/dev/js/nodeschool/functional-javascript-workshop/13-blocking-event-loop.js",
+		"/home/natedog/dev/js/nodeschool/functional-javascript-workshop/15-async-loops.js",
+		"/home/natedog/dev/js/nodeschool/bacon-love/2-wrapping-values.js",
+		"/home/natedog/dev/js/nodeschool/bacon-love/1-intro.js",
+		"/home/natedog/dev/js/nodeschool/functional-javascript-workshop/14-trampoline.js",
+		"/home/natedog/dev/js/nodeschool/functional-javascript-workshop/9-partial-application-bind.js",
+		"/home/natedog/dev/js/nodeschool/bacon-love/intro.js",
+		"/home/natedog/.config/sublime-text-3/Packages/ToDone/readme.todo",
+		"/home/natedog/dev/js/sandbox/mongoose-test.js",
+		"/home/natedog/.config/sublime-text-3/Packages/ToDone/Settings/ToDone.sublime-settings",
+		"/home/natedog/.config/sublime-text-3/Packages/User/ToDone.sublime-settings",
+		"/home/natedog/dev/js/lib/fill.js"
+	],
+	"find":
+	{
+		"height": 32.0
+	},
+	"find_in_files":
+	{
+		"height": 124.0,
+		"where_history":
+		[
+			"/home/natedog/dev/js/cryptoTracker/node_modules/mongorito"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"filter",
+			";;",
+			"$mineshaftGray;",
+			"$broomYellow;",
+			"String ISBN",
+			"edit_point",
+			"float",
+			"printl",
+			"number",
+			"\n\tgetNumber\n\n\tgetPrice\n\n\tisFull\n\n\tgetMotto\n\n\tgetSCHOOL()\n\n\tsetName\n\n\tsetDepartment\n\n\tsetNumber\n\n\tsetPrice\n\n\tsetIsFull\n\n\tsetMotto\n\n\tgetCourseDetails",
+			"remain",
+			"if (grade < 60) {\n\t\t\treturn \"F\";\n\t\t}\n\t\tif (grade < 70) {\n\t\t\treturn \"D\";\n\t\t}\n\t\tif (grade < 80) {\n\t\t\treturn \"C\";\n\t\t}\n\t\tif (grade < 90) {\n\t\t\treturn \"B\";",
+			"grade",
+			"emailAdress",
+			"true",
+			"mName",
+			"addBlock",
+			"ws",
+			"repeat",
+			"trampoline",
+			"priceDataSchema",
+			"pd",
+			"Space"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 5,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "style.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 9388,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								9388,
+								9388
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Spaceblack.tmTheme",
+							"syntax": "Packages/CSS/CSS.sublime-syntax"
+						},
+						"translation.x": 41876.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "styles/style.styl",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 12839,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1696,
+								1696
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										1780,
+										1781
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/curly_bracket.png",
+										"brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										1679,
+										1680
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Spaceblack.tmTheme",
+							"syntax": "Packages/Stylus/Stylus.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1392,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1392,
+								1392
+							]
+						],
+						"settings":
+						{
+							"auto_indent": false,
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Spaceblack.tmTheme",
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_width": 2,
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 360.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 33782,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2140,
+								2140
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										2142,
+										2144
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/tag.png",
+										"brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										2115,
+										2117
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Spaceblack.tmTheme",
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 6264.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "CNAME",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 12,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								12,
+								12
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content"
+							],
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": ".build/CNAME",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 13,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								13,
+								13
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 32.0
+	},
+	"input":
+	{
+		"height": 44.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "ethschool.sublime-project",
+	"replace":
+	{
+		"height": 60.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 190.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
